@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546322883036",
+    "firebase_url": "https://expenses-c4c51.firebaseio.com",
+    "project_id": "expenses-c4c51",
+    "storage_bucket": "expenses-c4c51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546322883036:android:3833456656aaf4ec",
+        "android_client_info": {
+          "package_name": "temerbu.edu.expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546322883036-0b6c33nka9a050ni4vn860l1tbu3mg17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "temerbu.edu.expenses",
+            "certificate_hash": "17ef27219d02191d79fc33c9a6e98d381454ef46"
+          }
+        },
+        {
+          "client_id": "546322883036-aqtkp7qetd7qgt34lsj4qtga8k30b0mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wVerMNL_IIsWfBuLwhIv18ZI1ENlPyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546322883036-aqtkp7qetd7qgt34lsj4qtga8k30b0mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

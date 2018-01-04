@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expenses</string>
+
+    <string-array name="colors">
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Sky Blue</item>
+    </string-array>
+
+</resources>
